@@ -70,9 +70,9 @@ If you're interested in working with us, feel free to open an issue or reach out
 
 ## 📬 Contact
 
-- 📧 Email: contact@datafuzeo.com  
+- 📧 Email: datafuzeo@gmail.com
 - 💼 Fiverr: https://www.fiverr.com/datafuzeo
-- 🔗 LinkedIn: *Coming soon*
+- 🔗 LinkedIn: https://www.linkedin.com/in/datafuzeo-data-fuzeo-046457372/
 
 ---
 
